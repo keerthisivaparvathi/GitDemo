@@ -8,5 +8,10 @@ public class SeleniumTest {
 	{
 		System.out.println("browser");
 	}
+	@Test
+	public void WebAutomation()
+	{
+		System.out.println("web");
+	}
 
 }
